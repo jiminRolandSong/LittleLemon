@@ -1,3 +1,2 @@
-﻿# LittleLemon
-/menu/ for menu items
-/restaurant/booking/ for booking (or restaurant/booking/tables/)
+Capstone project for Meta Backend Developer Certificate
+Basic Django, DRF used in this project
